@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-312
-description: "Create XXD Panel 312 raster artwork: a faithful photograph paired with one small whimsical memory-stamp in a mid-century children's-book hand. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-312 or asks for this 童书记忆 style."
+description: "XXD Panel 312｜Picture-Book Memory: keeps the photo and leaves one small, quiet whimsical symbol of its subject, like a memory stamp floating in a mid-century children's book or Scandinavian folk print — a clear outline from a few rounded flat shapes, slightly clumsy, not quite symmetrical proportions, soft hand-drawn lines with small pauses, and at most one symbolic helper such as a star, leaf, line or flower. Coloured pencil, wax-pastel grain, soft gouache, paper grain and slight screenprint imperfection; a soft, slightly faded palette of mist blue, warm cream, sage green, soft coral, pale yellow and pale pink; wide quiet whitespace and a tiny note like one in the corner of an old picture book. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-312 or asks for a mid-century children's-book, Scandinavian folk or nostalgic naive symbol from a photo."
 ---
 
 # XXD Panel 312

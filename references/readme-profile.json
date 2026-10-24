@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 312｜Picture-Book Memory: keeps the photo and leaves one small, quiet whimsical symbol of its subject, like a memory stamp floating in a mid-century children's book or Scandinavian folk print — a clear outline from a few rounded flat shapes, slightly clumsy, not quite symmetrical proportions, soft hand-drawn lines with small pauses, and at most one symbolic helper such as a star, leaf, line or flower. Coloured pencil, wax-pastel grain, soft gouache, paper grain and slight screenprint imperfection; a soft, slightly faded palette of mist blue, warm cream, sage green, soft coral, pale yellow and pale pink; wide quiet whitespace and a tiny note like one in the corner of an old picture book. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-312 or asks for a mid-century children's-book, Scandinavian folk or nostalgic naive symbol from a photo.",
+  "short_description": "童书记忆：把照片主体收成旧童书里漂着的一枚柔和、略褪色的蜡笔水粉记忆章",
+  "zh-CN": {
+    "name": "童书记忆",
+    "tagline": "保留原照片，把主体收成旧童书里漂着的一枚安静的记忆小章。",
+    "look": "照片保持原样，设计部分像上世纪中叶的童书或北欧民间印花：主体由几块圆润的平涂形状组成，轮廓清楚，比例略笨、不完全对称，线条柔软，带一点手绘的停顿。最多再配一个小帮手，比如一颗星、一片叶、一条线或一朵花。用色铅笔、蜡笔和薄水粉，纸纹和轻微丝网误差留着。颜色柔和、略褪色：雾蓝、奶油白、鼠尾草绿、柔珊瑚、浅黄、淡粉。符号小，可以偏心或靠近边缘，四周安静留白；角落一行小字，像旧绘本里的注释。",
+    "traits": ["中世纪童书", "笨拙比例", "一枚记忆章", "蜡笔水粉", "安静留白"],
+    "good": [
+      "温柔、安静的单个主体：一只兔子、一个睡着的孩子、一盆花、一只小鸟",
+      "带童年或怀旧感的物件：木马、旧风筝、红色小雨靴、纸船",
+      "想做成儿童房装饰、育儿相册、生日卡或绘本风标志的照片"
+    ],
+    "poor": [
+      "颜色强烈、节奏很快的照片：赛场、演唱会、霓虹街头",
+      "需要复杂透视或完整环境的照片：城市天际线、室内全景",
+      "想要高饱和糖果色、卡通贴纸或商业吉祥物的效果"
+    ]
+  },
+  "en": {
+    "name": "Picture-Book Memory",
+    "tagline": "Keeps your photo and turns the subject into one quiet memory stamp floating as in an old children's book.",
+    "look": "The photo stays as it is. The design recalls a mid-century children's book or Scandinavian folk print: the subject is a few rounded flat shapes with a clear outline, slightly clumsy, not quite symmetrical proportions and soft lines with small hand-drawn pauses. At most one little helper is added, such as a star, a leaf, a line or a flower. It is made with coloured pencil, wax pastel and thin gouache, with paper grain and slight screenprint imperfection left in. Colours are soft and a little faded: mist blue, cream, sage green, soft coral, pale yellow and pale pink. The symbol is small, often off-centre or near an edge, in quiet whitespace, with one line of tiny text like a note in an old picture book.",
+    "traits": ["Mid-century picture book", "Clumsy proportions", "One memory stamp", "Crayon and gouache", "Quiet whitespace"],
+    "good": [
+      "A gentle, calm single subject: a rabbit, a sleeping child, a pot of flowers, a small bird",
+      "Objects with a childhood or nostalgic feel: a rocking horse, an old kite, small red rain boots, a paper boat",
+      "Photos you want for a nursery, a baby album, a birthday card or a picture-book style mark"
+    ],
+    "poor": [
+      "Loud, fast photos: sports arenas, concerts, neon streets",
+      "Photos that need complex perspective or a full setting: city skylines, whole interiors",
+      "Wanting saturated candy colours, cartoon stickers or a commercial mascot"
+    ]
+  },
+  "ja": {
+    "name": "絵本の記憶",
+    "tagline": "写真はそのままに、主役を古い絵本に浮かぶような静かな記憶の小さな印にします。",
+    "look": "写真はそのまま残し、デザイン側は二十世紀半ばの子どもの本や北欧の民芸プリントを思わせます。主役は丸みのある平塗りの形いくつかで、輪郭ははっきり、比率は少し不器用で左右も揃いきらず、線は柔らかく手描きの間が残ります。添えるのは星、葉、一本の線、花など小さな脇役をひとつまで。色鉛筆、クレヨン、薄いガッシュで描き、紙の粒子とわずかなシルクスクリーンのずれも残します。色は柔らかく少し褪せていて、霧のような青、クリーム、セージグリーン、柔らかなコーラル、淡い黄、淡いピンクです。シンボルは小さく、端に寄せることも多く、静かな余白に囲まれ、隅に古い絵本の注記のような小さな文字が一行入ります。",
+    "traits": ["ミッドセンチュリーの絵本", "不器用な比率", "ひとつの記憶の印", "クレヨンとガッシュ", "静かな余白"],
+    "good": [
+      "やさしく静かな主役ひとつ：ウサギ、眠る子ども、花の鉢、小鳥",
+      "子ども時代や懐かしさを感じる物：木馬、古い凧、赤い小さな長靴、紙の舟",
+      "子ども部屋の飾り、育児アルバム、誕生日カード、絵本風のマークにしたい写真"
+    ],
+    "poor": [
+      "色が強くテンポの速い写真：競技場、ライブ、ネオンの街",
+      "複雑な遠近や環境全体が必要な写真：都市のスカイライン、室内の全景",
+      "彩度の高いキャンディカラー、キャラクターステッカー、商業的なマスコットを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "동화책 기억",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 옛 동화책에 떠 있는 듯한 조용한 기억의 작은 도장으로 만듭니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 20세기 중반의 어린이 책이나 북유럽 민속 프린트를 떠올리게 합니다. 주인공은 둥근 평면 도형 몇 개로 이루어지며 윤곽이 분명하고, 비율은 조금 서툴고 좌우가 완전히 맞지 않으며, 선은 부드럽고 손으로 그은 멈춤이 남습니다. 곁에는 별, 잎, 선 하나, 꽃 같은 작은 보조 요소를 많아야 하나만 둡니다. 색연필, 크레용, 묽은 과슈로 그리고 종이 결과 살짝 어긋난 실크스크린 흔적을 남깁니다. 색은 부드럽고 조금 바래서 안개 낀 파랑, 크림, 세이지 그린, 부드러운 코랄, 연노랑, 연분홍을 씁니다. 심벌은 작고 가장자리 쪽에 놓일 때가 많으며, 조용한 여백 속 한구석에 옛 그림책의 주석 같은 작은 글자 한 줄이 들어갑니다.",
+    "traits": ["미드센추리 동화책", "서툰 비율", "기억의 도장 하나", "크레용과 과슈", "조용한 여백"],
+    "good": [
+      "부드럽고 조용한 주인공 하나: 토끼, 잠든 아이, 꽃 화분, 작은 새",
+      "어린 시절이나 향수가 느껴지는 물건: 목마, 낡은 연, 빨간 작은 장화, 종이배",
+      "아이 방 장식, 육아 앨범, 생일 카드, 그림책풍 마크로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이 강하고 템포가 빠른 사진: 경기장, 콘서트, 네온 거리",
+      "복잡한 원근이나 전체 환경이 필요한 사진: 도시 스카이라인, 실내 전경",
+      "채도 높은 사탕색, 캐릭터 스티커, 상업 마스코트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ذاكرة كتاب الأطفال",
+    "tagline": "يحتفظ بصورتك ويحوّل عنصرها إلى ختم ذكرى هادئ يطفو كما في كتاب أطفال قديم.",
+    "look": "تبقى الصورة كما هي، ويستحضر التصميم كتب الأطفال من منتصف القرن العشرين أو المطبوعات الشعبية الإسكندنافية: العنصر مكوّن من بضعة أشكال مسطحة مستديرة بخط خارجي واضح، ونِسب خرقاء قليلاً وتناظر غير تام، وخطوط ناعمة فيها توقفات اليد. يُضاف في أقصى حد عنصر مساعد صغير واحد، كنجمة أو ورقة شجر أو خط أو زهرة. يُنفَّذ بالأقلام الملوّنة وأقلام الشمع والغواش الخفيف، مع بقاء حبيبات الورق وأخطاء طفيفة في الطباعة الحريرية. الألوان ناعمة باهتة قليلاً: أزرق ضبابي وكريمي وأخضر مريمية ومرجاني ناعم وأصفر فاتح ووردي فاتح. الرمز صغير، غالباً بعيد عن المركز أو قرب الحافة، في فراغ هادئ، مع سطر صغير كحاشية في زاوية كتاب مصوّر قديم.",
+    "traits": ["كتاب أطفال من منتصف القرن", "نِسب خرقاء", "ختم ذكرى واحد", "شمع وغواش", "فراغ هادئ"],
+    "good": [
+      "عنصر واحد لطيف هادئ: أرنب، طفل نائم، أصيص زهور، عصفور صغير",
+      "أشياء فيها طفولة أو حنين: حصان هزّاز، طائرة ورقية قديمة، حذاء مطر أحمر صغير، قارب ورقي",
+      "صور تريدها لزينة غرفة طفل أو ألبوم مولود أو بطاقة عيد ميلاد أو علامة بأسلوب كتب الأطفال"
+    ],
+    "poor": [
+      "صور صاخبة الألوان سريعة الإيقاع: الملاعب، الحفلات الموسيقية، شوارع النيون",
+      "صور تحتاج إلى منظور معقد أو محيط كامل: أفق المدن، لقطات داخلية شاملة",
+      "الرغبة في ألوان حلوى مشبعة أو ملصقات كرتونية أو تميمة تجارية"
+    ]
+  }
+}
